@@ -1,0 +1,15 @@
+{
+    "serverConfig": {
+        "maintenanceMode": false,
+        "behindHttps": false
+    },
+    "timeZoneConfig": {
+        "hoursOffset": 5,
+        "minsOffset": 30
+    },
+    "dbConfig": {
+        "url": "mongodb://localhost:27017/sample-db"
+
+    }
+    
+}
